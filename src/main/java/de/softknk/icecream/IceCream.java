@@ -6,6 +6,5 @@ public abstract class IceCream {
     
     static final float pricePerScoop = 1.4f;
 
-    
-
+    public abstract float computeTotal();
 }
